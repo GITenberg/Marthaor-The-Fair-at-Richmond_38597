@@ -1,0 +1,48 @@
+_repo: Marthaor-The-Fair-at-Richmond_38597
+_version: 0.1.0
+contributor:
+  composer:
+    agent_name: Flotow, Friedrich von
+    alias: Von Flotow, F. (Friedrich)
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '25660'
+    url: http://www.gutenberg.org/2009/agents/25660
+  librettist:
+    agent_name: Friedrich, W.
+    aliases:
+    - Friedrich, Wilhelm
+    - Riese, Friedrich Wilhelm
+    - Riese, Wilhelm Friedrich
+    deathdate: 1879
+    gutenberg_agent_id: '25661'
+    url: http://www.gutenberg.org/2009/agents/25661
+  translator:
+    agent_name: Baum, M. Louise
+    alias: Baum, Maria Louise
+    birthdate: 1867
+    gutenberg_agent_id: '39563'
+    url: http://www.gutenberg.org/2009/agents/39563
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Carle, Glen
+    gutenberg_agent_id: '39562'
+    url: http://www.gutenberg.org/2009/agents/39562
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2012-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Operas -- Librettos'
+title: Martha; or, The Fair at Richmond
+url: http://www.gutenberg.org/ebooks/38597
